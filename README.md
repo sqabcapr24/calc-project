@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Calculator Project
+## Basic Calculator Example
 
-*Default Structure for A Basic Project*
+*Calculator Example*
 
 **Java 8**
 
